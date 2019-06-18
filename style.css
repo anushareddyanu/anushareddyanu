@@ -1,0 +1,25 @@
+h1{
+    color:#8e44ad;
+    background:#95a5a6;
+}
+h3{
+    
+    color:#8e44ad;
+     background:#95a5a6;
+}
+
+
+#box{
+    width: 800px;
+    background: #white;
+    margin: 100px auto;
+    padding: 30px;
+}
+
+
+#anusha{
+    width:80px;
+    height: 80px;
+    border: 3px solid blue;
+    border-radius: 5px;
+}
